@@ -1,5 +1,16 @@
 # gzweb-rosssh
-Dockerized Gazebo Web with ROS and ssh
+
+Dockerized Gazebo Web with ROS and ssh.
+
+Also available on DockerHub at [this](https://cloud.docker.com/repository/docker/vasilescur/gzweb-rosssh) link.
+
+## Contents
+
+- `ubuntu:xenial`
+- ROS
+- Gazebo Server
+- Gazebo Web (webgz)
+- ssh
 
 ## Usage
 
