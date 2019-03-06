@@ -33,5 +33,5 @@ Use your browser to access the running web interface at `localhost:8080`.
 To build the image, run:
 
 ```bash
-docker build -t gzweb-rosssh .
+docker build -t vasilescur/gzweb-rosssh .
 ```
